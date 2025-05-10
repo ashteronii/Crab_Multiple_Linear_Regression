@@ -1,6 +1,7 @@
 # Crab Age Prediction using Multiple Linear Regression
 
 This project applies both a custom implementation of Ordinary Least Squares (OLS) Linear Regression and Scikit-learn's regression model to predict the age of crabs based on selected physical features. The aim is to explore how well linear models can estimate crab age using measurable attributes like shell weight and body dimensions.
+
 ---
 
 ## Dataset
