@@ -64,7 +64,7 @@ Both models were trained on the same feature matrix and evaluated using R² and 
 1. Clone the repository and navigate into it:
    ```bash
    git clone https://github.com/ashteronii/Crab_Multiple_Linear_Regression.git
-   cd crab-age-prediction
+   cd Crab_Multiple_Linear_Regression
    ```
 2. Install required libraries:
    ```bash
