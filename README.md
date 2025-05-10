@@ -21,6 +21,7 @@ To determine which features to include in the model, a correlation matrix betwee
 - `Height`
 
 These features showed the strongest positive correlation with crab age while minimizing multicollinearity with each other. These attributes are also logically relevant, as crab size and weight tend to increase with age.
+
 Predicting crab age from physical traits can help crab farmers monitor growth and make informed decisions about harvest timing.
 
 ---
@@ -41,7 +42,7 @@ Predicting crab age from physical traits can help crab farmers monitor growth an
 Two models were applied:
 1. Scikit-learn Linear Regression:
    - Uses the built-in LinearRegression model from sklearn.linear_model.
-3. Custom Linear Regression:
+2. Custom Linear Regression:
    - Manually implemented using NumPy and the Normal Equation.
 Both models were trained on the same feature matrix and evaluated using R² and RMSE.
 
