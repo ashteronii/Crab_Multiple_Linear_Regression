@@ -72,7 +72,7 @@ Both models were trained on the same feature matrix and evaluated using R² and 
    ```
 3. Run the cleaning script:
    ```bash
-   python Crab_Age_Prediction.py
+   python Crab_Cleaned.py
    ```
 4. Run the main script:
    ```bash
