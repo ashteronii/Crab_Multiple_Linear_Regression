@@ -19,6 +19,7 @@ To determine which features to include in the model, a correlation matrix betwee
 - `Shell Weight`
 - `Diameter`
 - `Height`
+
 These features showed the strongest positive correlation with crab age while minimizing multicollinearity with each other. These attributes are also logically relevant, as crab size and weight tend to increase with age.
 Predicting crab age from physical traits can help crab farmers monitor growth and make informed decisions about harvest timing.
 
