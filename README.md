@@ -44,13 +44,13 @@ Two models were applied:
    - Uses the built-in LinearRegression model from sklearn.linear_model.
 2. Custom Linear Regression:
    - Manually implemented using NumPy and the Normal Equation.
-Both models were trained on the same feature matrix and evaluated using R² and RMSE.
+Both models were trained on the same feature matrix and evaluated using R^2 and RMSE.
 
 ---
 
 ## Results
 
-| Model              | R² Score | RMSE   |
+| Model              | R^2 Score | RMSE   |
 | ------------------ | -------- | ------ |
 | Scikit-learn Model | \~0.3968 | \~2.50 |
 | Custom OLS Model   | \~0.3968 | \~2.50 |
